@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Python,Java,Android development(Flutter),C,Networking.**
 
-- ⚡ The Fun Fact is : **Programming is fun 😝**
+- ⚡ The Fun Fact is : **Love to watch animes😝**
 
 
 <table>
